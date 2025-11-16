@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Recommended Courses</h2>
+{% if courses %}
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>College</th>
+                <th>City</th>
+                <th>Course</th>
+                <th>Stream</th>
+                <th>Cutoff Percentage</th>
+                <th>Description</th>
+                <th>Website</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for course in courses %}
+                <tr>
+                    <td>{{ course.college.name }}</td>
+                    <td>{{ course.college.city }}</td>
+                    <td>{{ course.name }}</td>
+                    <td>{{ course.stream }}</td>
+                    <td>{{ course.cutoff_percentage }}</td>
+                    <td>{{ course.description }}</td>
+                    <td><a href="{{ course.college.website }}" target="_blank">Visit</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% else %}
+    <p>No courses match your criteria.</p>
+{% endif %}
+{% endblock %}

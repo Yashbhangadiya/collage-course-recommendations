@@ -1,0 +1,49 @@
+name,city,stream,course,cutoff_percentage,description,website
+IIT Bombay,Mumbai,Science,B.Tech Computer Science,95.0,Top engineering program with focus on computer science,https://www.iitb.ac.in
+IIT Bombay,Mumbai,Science,B.Tech Electrical,92.0,Electrical engineering with advanced labs,https://www.iitb.ac.in
+IIT Delhi,Delhi,Science,B.Tech Mechanical,90.0,Mechanical engineering with industry exposure,https://www.iitd.ac.in
+IIT Delhi,Delhi,Commerce,BBA,85.0,Business administration with case studies,https://www.iitd.ac.in
+BITS Pilani,Pilani,Science,B.E. Chemical,88.0,Chemical engineering with research opportunities,https://www.bits-pilani.ac.in
+LD College of Engineering,Ahmedabad,Science,B.E. Civil,80.0,Civil engineering with practical training,https://www.ldce.ac.in
+St. Xavier's College,Ahmedabad,Commerce,B.Com,78.0,Commerce program with focus on accounting,https://www.sxcall.in
+HL College of Commerce,Ahmedabad,Commerce,B.Com,75.0,Commerce with business management,https://www.hlcc.edu.in
+Nirma University,Ahmedabad,Science,B.Tech Computer Science,85.0,Computer science with modern curriculum,https://www.nirmauni.ac.in
+Gujarat University,Ahmedabad,Commerce,M.Com,70.0,Master's in commerce with finance specialization,https://www.gujaratuniversity.ac.in
+Ahmedabad University,Ahmedabad,Science,B.Sc. Physics,82.0,Physics with experimental learning,https://www.ahduni.edu.in
+CEPT University,Ahmedabad,Science,B.Arch,88.0,Architecture with design focus,https://www.cept.ac.in
+LJ Institute of Management,Ahmedabad,Commerce,BBA,72.0,Business administration with internships,https://www.ljinstitutes.org
+MG Science Institute,Ahmedabad,Science,B.Sc. Chemistry,80.0,Chemistry with lab facilities,https://www.mgscience.ac.in
+B.K. School of Management,Ahmedabad,Commerce,MBA,85.0,MBA with industry connections,https://www.bkschool.org.in
+Marwadi University,Rajkot,Science,B.Tech IT,75.0,Information Technology with industry exposure,https://www.marwadiuniversity.ac.in
+RK University,Rajkot,Commerce,BBA,68.0,Business administration program,https://www.rku.ac.in
+Saurashtra University,Rajkot,Science,M.Sc. Physics,65.0,Advanced physics studies,https://www.saurashtrauniversity.edu
+Atmiya University,Rajkot,Science,B.Tech Mechanical,70.0,Mechanical engineering with workshops,https://www.atmiyauni.ac.in
+Shree Swaminarayan College of Commerce,Rajkot,Commerce,B.Com,60.0,Commerce with accounting focus,https://www.ssccr.ac.in
+Surat Municipal Institute of Medical Education,Surat,Science,MBBS,95.0,Medical education with hospital training,https://www.smimer.edu.in
+Sardar Vallabhbhai National Institute of Technology,Surat,Science,B.Tech Civil,90.0,Civil engineering program,https://www.svnit.ac.in
+Veer Narmad South Gujarat University,Surat,Commerce,M.Com,65.0,Master's in commerce,https://www.vnsgu.ac.in
+C.K. Pithawalla College of Engineering,Surat,Science,B.E. Computer,75.0,Computer engineering program,https://www.ckpcet.ac.in
+Shrimad Rajchandra Institute of Management,Surat,Commerce,MBA,80.0,Management studies,https://www.srimedu.org
+GIDC Degree Engineering College,Surat,Science,B.E. Electrical,70.0,Electrical engineering,https://www.gidc.ac.in
+Gujarat Technological University,Ahmedabad,Science,B.Pharm,72.0,Pharmacy program,https://www.gtu.ac.in
+Dharmsinh Desai University,Nadiad,Science,B.Tech Chemical,78.0,Chemical engineering,https://www.ddu.ac.in
+Pandit Deendayal Energy University,Gandhinagar,Science,B.Tech Petroleum,82.0,Petroleum engineering,https://www.pdpu.ac.in
+Shree M. & N. Virani Science College,Rajkot,Science,B.Sc. Microbiology,45.0,Microbiology with modern lab facilities,https://www.viranisciencecollege.edu.in
+Shree P.M. Patel Institute of Science,Surat,Science,B.Sc. Mathematics,42.0,Mathematics with computational focus,https://www.pmpatelinstitute.edu.in
+Shree Ramkrishna Institute of Computer Education,Ahmedabad,Science,BCA,40.0,Computer applications with practical training,https://www.srice.edu.in
+Sardar Patel College of Education,Ahmedabad,Arts,B.Ed,45.0,Education degree program,https://www.spce.ac.in
+Shree K.K. Shastri Commerce College,Surat,Commerce,B.Com (General),42.0,General commerce program,https://www.kkshastricollege.edu.in
+Shree H.N. Shukla College of Science,Rajkot,Science,B.Sc. Botany,40.0,Botany with field studies,https://www.hnshuklacollege.edu.in
+Shree V.D. Desai College of Commerce,Ahmedabad,Commerce,B.Com (Taxation),45.0,Commerce with taxation specialization,https://www.vddesaicommercecollege.edu.in
+Shree G.E. Society College of Arts & Science,Surat,Arts,BA (English),41.0,English literature program,https://www.gesocietycollege.edu.in
+Shree L.J. College of Education,Rajkot,Arts,B.P.Ed,43.0,Physical education degree,https://www.ljcollegeofeducation.edu.in
+Shree Swaminarayan College of Science,Ahmedabad,Science,B.Sc. Zoology,44.0,Zoology with laboratory studies,https://www.swaminarayansciencecollege.edu.in
+Maharaja Sayajirao University of Baroda,Vadodara,Arts,BA History,55.0,History program with research focus,https://www.msubaroda.ac.in
+Faculty of Fine Arts,Ahmedabad,Arts,BFA Painting,58.0,Fine arts with painting specialization,https://www.fineartsahd.com
+Shreyas Foundation,Ahmedabad,Arts,BA Sociology,52.0,Sociology with fieldwork emphasis,https://www.shreyasfoundation.in
+Sheth C.N. College of Fine Arts,Ahmedabad,Arts,BFA Sculpture,50.0,Sculpture and 3D arts program,https://www.cnfinearts.edu.in
+Shree M.K. School of Arts,Rajkot,Arts,BA Economics,48.0,Economics with quantitative methods,https://www.mkschoolofarts.edu.in
+Shree N.H. College of Performing Arts,Surat,Arts,BA Music,45.0,Indian classical music program,https://www.nhperformingarts.edu.in
+Shree P.D. Arts College,Ahmedabad,Arts,BA Psychology,50.0,Psychology with counseling focus,https://www.pdartscollege.edu.in
+Shree R.R. College of Visual Arts,Rajkot,Arts,BFA Applied Arts,47.0,Commercial and applied arts,https://www.rrvisualarts.edu.in
+Shree S.S. College of Liberal Arts,Surat,Arts,BA Political Science,53.0,Political science with governance studies,https://www.ssliberalarts.edu.in
